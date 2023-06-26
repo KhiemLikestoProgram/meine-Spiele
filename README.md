@@ -1,5 +1,5 @@
 # Impromptu
-It's just a normal console app (with search and many other features that I developed only in Python. I'll learn others next month.
+It's just a normal console "app" (with search and many other features that I developed only in Python. I'll learn others next month.
 ## What this does:
 - IDK
 ##
